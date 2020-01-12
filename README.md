@@ -1,4 +1,4 @@
-## Belajar ReactJs
+# Belajar ReactJs
 
 ## Belajar CRUD ReactJs Menggunakan Redux
 ### Repo ada pada branch redux-p1
