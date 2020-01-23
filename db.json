@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1564279466694,
+      "title": "tas",
+      "body": "tos"
+    },
+    {
+      "id": 1564280701587,
+      "title": "cobacoba",
+      "body": "coba"
+    },
+    {
+      "id": 1564282946444,
+      "title": "title2",
+      "body": "tambah2"
+    },
+    {
+      "id": 1564283175398,
+      "title": "title3",
+      "body": "body3"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
