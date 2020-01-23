@@ -6,5 +6,12 @@
   2. masuk ke folder project `cd folder-project`
   3. `npm install`
   4. `npm start`
+  
+## Belajar CRUD API Sederhana
+### Repo ada pada branch crudAPI-p1
+  1. clone repo `git clone url ssh repo`
+  2. masuk ke folder project `cd folder-project`
+  3. `npm install`
+  4. `npm start`
 
 
