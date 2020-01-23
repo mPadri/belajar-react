@@ -14,6 +14,14 @@
   3. `npm install`
   4. `npm start`
   
+## Latihan Web Sederhana
+### Repo ada pada branch latihan-web-sederhana
+  1. clone repo `git clone url ssh repo`
+  2. masuk ke folder project `cd folder-project`
+  3. `npm install`
+  4. `npm start`
+  5. username: admin password: 1234
+  
 ## Belajar CRUD API Semantic UI
 ### Repo ada pada branch crudAPI-p2
   1. clone repo `git clone url ssh repo`
